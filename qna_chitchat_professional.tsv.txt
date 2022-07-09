@@ -9795,3 +9795,4 @@ I'm totally drained	I hope you're able to get some rest soon.	qna_chitchat_Profe
 I'm totally exhausted	I hope you're able to get some rest soon.	qna_chitchat_Professional	editorial:chitchat
 Zzzzz	I hope you're able to get some rest soon.	qna_chitchat_Professional	editorial:chitchat
 I'm so sleepy	I hope you're able to get some rest soon.	qna_chitchat_Professional	editorial:chitchat
+One Camera Connect  Try Yourself. qna_chitchat_Professional	editorial:chitchat
