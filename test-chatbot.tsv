@@ -9795,4 +9795,5 @@ I'm totally drained	I hope you're able to get some rest soon.	qna_chitchat_Profe
 I'm totally exhausted	I hope you're able to get some rest soon.	qna_chitchat_Professional	editorial:chitchat
 Zzzzz	I hope you're able to get some rest soon.	qna_chitchat_Professional	editorial:chitchat
 I'm so sleepy	I hope you're able to get some rest soon.	qna_chitchat_Professional	editorial:chitchat
-One camera connect	Try out yourself.	qna_chitchat_Professional	editorial:chitchat
+One camera connect	1. Run ueyesetid to check for the device that is disconnected. 2. Run ueyesetip to check if it is disconnected due to IP issues. 3. Check for the connections of the Camera to the IMB Assembly. 4. Check for the 12V Supply to the Camera Assembly
+5. Replace the suspected Camera and check if the issue is resolved or not. 6. Replace the suspected IMB and check for issue resolution.	qna_chitchat_Professional	editorial:chitchat
